@@ -1,0 +1,25 @@
+# Heat Pump Simulation Dependencies
+# Abwaermenutzung Project
+
+# Core simulation library
+tespy>=0.7.5
+
+# Thermodynamic properties
+coolprop>=6.4.1
+
+# Fluid property diagrams
+fluprodia==3.3
+
+# Visualization and plotting
+matplotlib>=3.6.3
+plotly>=5.20.0
+
+# Numerical computations
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data handling and analysis
+pandas>=1.5.3
+
+# Machine learning
+scikit-learn>=1.2.1
